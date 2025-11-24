@@ -1,0 +1,17 @@
+com\scamalert\dao\UserDAO.class
+com\scamalert\service\UserService.class
+com\scamalert\controller\AuthController.class
+com\scamalert\model\User.class
+com\scamalert\dao\ScamReportDAO.class
+com\scamalert\dto\LoginRequest.class
+com\scamalert\config\WebConfig.class
+com\scamalert\controller\ScamReportController.class
+com\scamalert\service\ScamReportService.class
+com\scamalert\util\PasswordHashGenerator.class
+com\scamalert\ScamAlertPortalApplication.class
+com\scamalert\dto\ApiResponse.class
+com\scamalert\dto\RegisterRequest.class
+com\scamalert\config\SecurityConfig.class
+com\scamalert\util\JwtUtil.class
+com\scamalert\model\ScamReport.class
+com\scamalert\controller\HealthController.class

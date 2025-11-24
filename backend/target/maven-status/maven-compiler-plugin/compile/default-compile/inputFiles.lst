@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\ALL PROJECT\project foar resume\Scam Alert Portal\backend\src\main\java\com\scamalert\model\User.java
+C:\Users\HP\Desktop\ALL PROJECT\project foar resume\Scam Alert Portal\backend\src\main\java\com\scamalert\service\ScamReportService.java
+C:\Users\HP\Desktop\ALL PROJECT\project foar resume\Scam Alert Portal\backend\src\main\java\com\scamalert\dao\UserDAO.java
+C:\Users\HP\Desktop\ALL PROJECT\project foar resume\Scam Alert Portal\backend\src\main\java\com\scamalert\controller\ScamReportController.java
+C:\Users\HP\Desktop\ALL PROJECT\project foar resume\Scam Alert Portal\backend\src\main\java\com\scamalert\ScamAlertPortalApplication.java
+C:\Users\HP\Desktop\ALL PROJECT\project foar resume\Scam Alert Portal\backend\src\main\java\com\scamalert\dto\LoginRequest.java
+C:\Users\HP\Desktop\ALL PROJECT\project foar resume\Scam Alert Portal\backend\src\main\java\com\scamalert\dao\ScamReportDAO.java
+C:\Users\HP\Desktop\ALL PROJECT\project foar resume\Scam Alert Portal\backend\src\main\java\com\scamalert\dto\ApiResponse.java
+C:\Users\HP\Desktop\ALL PROJECT\project foar resume\Scam Alert Portal\backend\src\main\java\com\scamalert\model\ScamReport.java
+C:\Users\HP\Desktop\ALL PROJECT\project foar resume\Scam Alert Portal\backend\src\main\java\com\scamalert\service\UserService.java
+C:\Users\HP\Desktop\ALL PROJECT\project foar resume\Scam Alert Portal\backend\src\main\java\com\scamalert\config\WebConfig.java
+C:\Users\HP\Desktop\ALL PROJECT\project foar resume\Scam Alert Portal\backend\src\main\java\com\scamalert\config\SecurityConfig.java
+C:\Users\HP\Desktop\ALL PROJECT\project foar resume\Scam Alert Portal\backend\src\main\java\com\scamalert\controller\AuthController.java
+C:\Users\HP\Desktop\ALL PROJECT\project foar resume\Scam Alert Portal\backend\src\main\java\com\scamalert\controller\HealthController.java
+C:\Users\HP\Desktop\ALL PROJECT\project foar resume\Scam Alert Portal\backend\src\main\java\com\scamalert\util\JwtUtil.java
+C:\Users\HP\Desktop\ALL PROJECT\project foar resume\Scam Alert Portal\backend\src\main\java\com\scamalert\dto\RegisterRequest.java
